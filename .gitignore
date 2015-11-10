@@ -12,4 +12,7 @@ scribe.iml
 
 # Binaries
 
+build/*
 target
+out
+gradle
